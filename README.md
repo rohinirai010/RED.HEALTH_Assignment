@@ -1,10 +1,12 @@
 * Commenting System
+  Live Link : https://red-health-assignment-two.vercel.app/ or https://commentappassessment.netlify.app/
+  
 
 * Tech Stack
-Next.js 14+ - React framework with App Router
-TypeScript - Type-safe development
-Tailwind CSS - Utility-first styling
-Lucide React - Icon library
+1. Next.js 14+ - React framework with App Router
+2. TypeScript - Type-safe development
+3. Tailwind CSS - Utility-first styling
+4. Lucide React - Icon library
 
 * Features
 1. Add comments with user selection
